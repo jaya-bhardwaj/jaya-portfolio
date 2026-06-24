@@ -18,10 +18,5 @@ Python, PyTorch, Optuna, Data sources
 - The 2.34% spread compares favourably with Meursault et al. (2023), who report 1.54% using classic numerical SUE features; our model falls between their numerical and text-based benchmarks
 - Neural network adds predictive value but does not outperform the elastic net, consistent with the limited training sample size (~13K observations)
 
-## How to Run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run: `python main.py`
-
 ## Files
-- `src/model.py` — model architecture
-- `src/train.py` — training loop
+- `PEAD analysis.ipynb` 
