@@ -14,9 +14,5 @@ Python, PyTorch, librosa, soundfile, scikit-learn, NumPy, pandas, matplotlib, se
 - CNN pre-processing was the single most impactful design choice (+0.0655 F1 over plain BiLSTM)
 - Results stable across 1,000 bootstrap resamples (95% CI: [0.837, 0.962] recording-level)
 
-## How to Run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run: jupyter notebook `heart-murmur-classification.ipynb`
-
 ## Files
 - `heart-murmur-classification.ipynb`
