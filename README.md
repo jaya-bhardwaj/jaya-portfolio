@@ -9,7 +9,7 @@ www.linkedin.com/in/jaya-bhardwaj-1jb
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Heart Murmur Classification](./heart-murmur-classification) | CNN-BiLSTM on CirCor DigiScope dataset | Python, PyTorch |
+| [Heart Murmur Classification](./heart-murmur-classification) | CNN-BiLSTM on CirCor DigiScope dataset | Python |
 
 
 ## Skills
