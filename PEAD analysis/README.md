@@ -20,4 +20,4 @@ Python, PyTorch, Optuna, Data sources
 
 ## Files
 - `PEAD analysis.ipynb`
-- - `ibes_df_final.csv` 
+- `ibes_df_final.csv` 
