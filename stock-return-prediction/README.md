@@ -1,4 +1,4 @@
-# S&P 500 Return Prediction — Rolling OLS & Principal Component Regression
+# S&P 500 Return Prediction - Rolling OLS & Principal Component Regression
 
 ## Overview
 
