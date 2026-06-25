@@ -10,7 +10,7 @@ www.linkedin.com/in/jaya-bhardwaj-1jb
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Heart Murmur Classification](./heart-murmur-classification) | CNN-BiLSTM on CirCor DigiScope dataset | Python |
-| [PEAD Analysis](./pead-analysis) | ML-based investigation of post-earnings announcement drift on S&P 500 (2021–2024) using walk-forward framework | Python |
+| [PEAD Analysis](./PEAD-analysis) | ML-based investigation of post-earnings announcement drift on S&P 500 (2021–2024) using walk-forward framework | Python |
 
 
 ## Skills
