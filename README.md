@@ -15,6 +15,6 @@ www.linkedin.com/in/jaya-bhardwaj-1jb
 
 
 ## Skills
-**Languages:** Python, R, LaTeX  
+**Languages:** Python, R, SQL, LaTeX  
 **ML/Stats:** PyTorch, scikit-learn, tidyverse, lme4  
 **Other:** Git, Jupyter, VS Code
