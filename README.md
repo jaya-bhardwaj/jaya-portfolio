@@ -1,5 +1,5 @@
 # jaya-portfolio
-This portfolio contains undergraduate projects spanning machine learning, financial statistical modelling, and data ethics.
+This portfolio contains undergraduate projects spanning machine learning, statistical modelling, and financial prediction.
 
 www.linkedin.com/in/jaya-bhardwaj-1jb
 
