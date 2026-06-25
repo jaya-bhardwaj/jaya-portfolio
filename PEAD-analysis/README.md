@@ -26,3 +26,12 @@ Python, PyTorch, Optuna
 - `PEAD_analysis.ipynb`  
 - `ibes_df_final.csv` 
 
+## Methodology Notes
+
+**Walk-forward split** — training on 2012–2020 (13,415 obs), testing on 2021–2024 (6,926 obs). No test data is ever used during training, tuning, or feature engineering.
+
+**Target variable** — `pos_drift`: binary indicator for CAR(2,60) > 0. Classification models predict drift direction; OLS estimates drift magnitude.
+
+**Evaluation** — primary metric is the long-short spread in actual CAR(2,60) between the top and bottom predicted probability quintiles, following Meursault et al. (2023). AUC-ROC and accuracy are reported as secondary metrics.
+
+**Neural network** — feedforward network with three hidden layers (64→32→16), BatchNorm, ReLU, Dropout (p=0.2), trained with AdamW + cosine annealing. Ensemble of 5 seeds averages predicted probabilities to reduce variance.
