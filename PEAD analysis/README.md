@@ -4,7 +4,7 @@
 Post-earnings announcement drift (PEAD) is the well-documented tendency of stock prices to continue drifting in the direction of an earnings surprise for weeks after an announcement - a persistent challenge to the efficient market hypothesis. This project investigates whether PEAD still exists in the post-COVID S&P 500 (2021–2024) and whether machine learning can exploit it more effectively than the classical SUE-sorting approach. Using a strict walk-forward framework (training on 2012–2020, testing on 2021–2024) across 20,341 earnings announcements, we find that PEAD persists but has compressed into shorter windows, and that a regularised elastic net logistic regression - not a neural network - delivers the strongest out-of-sample long-short portfolio spread.
 
 ## Tech Stack
-Python, PyTorch, Optuna, Data sources 
+Python, pandas, numpy, scikit-learn, optuna, torch, scipy, statsmodels, matplotlib, seaborn, yfinance
 
 ## Key Results
 | Model | Long-Short Spread (CAR 2–60) | t-stat | p-value |
