@@ -19,4 +19,5 @@ Python, PyTorch, Optuna, Data sources
 - Neural network adds predictive value but does not outperform the elastic net, consistent with the limited training sample size (~13K observations)
 
 ## Files
-- `PEAD analysis.ipynb` 
+- `PEAD analysis.ipynb`
+- - `ibes_df_final.csv` 
