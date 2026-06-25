@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project applies multilevel modelling to two datasets to investigate hierarchically structured data. Section 1 analyses 2022 Canadian PISA data to identify school and student-level predictors of mathematical ability, using a two-level random slope model with cross-level interactions. Section 2 analyses British Household Panel Survey (BHPS) data to model how attitudes towards women and family evolve with age from 20 to 36, using a longitudinal growth curve framework. Section 3 extends the BHPS analysis to a three-level structure with countries as the highest level, and proposes a research question on between-country variation in the gender effect.
+This project applies multilevel modelling to two datasets to investigate hierarchically structured data. Section 1 analyses 2022 Canadian PISA data to identify school and student-level predictors of mathematical ability, using a two-level random slope model with cross-level interactions. Section 2 analyses British Household Panel Survey (BHPS) data to model how attitudes towards women and family evolve with age from 20 to 36, using a longitudinal growth curve framework. 
 
 ## Tech Stack
 
